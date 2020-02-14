@@ -1,0 +1,24 @@
+{
+  "id": "70f0a1a6-2cd0-4ab5-81b9-5a9e93908c2a",
+  "name": "SALESMANAGEMENT",
+  "publisher": "SALES_MANAGEMENT_SP5_4_SP5_5",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "runtime": "3.2"
+ 
+}

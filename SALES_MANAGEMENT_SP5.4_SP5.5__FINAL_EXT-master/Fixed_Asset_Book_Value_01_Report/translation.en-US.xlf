@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 2742005788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Book Value 01</source>
+          <target>Fixed Asset Book Value 01</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 3552972809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depreciation Book</source>
+          <target>Depreciation Book</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control DeprBookCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 3552972809 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the depreciation book to be included in the report or batch job.</source>
+          <target>Specifies the code for the depreciation book to be included in the report or batch job.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control DeprBookCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target>Starting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when you want the report to start.</source>
+          <target>Specifies the date when you want the report to start.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target>Ending Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 3592094765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when you want the report to end.</source>
+          <target>Specifies the date when you want the report to end.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control EndingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2991586698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Totals</source>
+          <target>Group Totals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control GroupTotals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2991586698 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,FA Class,FA Subclass,FA Location,Main Asset,Global Dimension 1,Global Dimension 2,FA Posting Group</source>
+          <target> ,FA Class,FA Subclass,FA Location,Main Asset,Global Dimension 1,Global Dimension 2,FA Posting Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control GroupTotals - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2991586698 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to group fixed assets and print totals using the category defined in this field. For example, maintenance expenses for fixed assets can be shown for each fixed asset class.</source>
+          <target>Specifies if you want the report to group fixed assets and print totals using the category defined in this field. For example, maintenance expenses for fixed assets can be shown for each fixed asset class.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control GroupTotals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 568987109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print per Fixed Asset</source>
+          <target>Print per Fixed Asset</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control PrintDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 568987109 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to print information separately for each fixed asset.</source>
+          <target>Specifies if you want the report to print information separately for each fixed asset.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control PrintDetails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2139801453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget Report</source>
+          <target>Budget Report</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control BudgetReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - Control 2139801453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to calculate future depreciation and book value. This is valid only if you have selected Depreciation and Book Value for Amount Field 1, 2 or 3.</source>
+          <target>Specifies if you want the report to calculate future depreciation and book value. This is valid only if you have selected Depreciation and Book Value for Amount Field 1, 2 or 3.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - Control BudgetReport - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset - Book Value 01</source>
+          <target>Fixed Asset - Book Value 01</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(Budget Report)</source>
+          <target>(Budget Report)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Total</source>
+          <target>Group Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Totals</source>
+          <target>Group Totals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>in Period</source>
+          <target>in Period</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disposal</source>
+          <target>Disposal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Addition</source>
+          <target>Addition</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 has been modified in fixed asset %2.</source>
+          <target>%1 has been modified in fixed asset %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2742005788 - NamedType 1665040906" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,FA Class,FA Subclass,FA Location,Main Asset,Global Dimension 1,Global Dimension 2,FA Posting Group</source>
+          <target> ,FA Class,FA Subclass,FA Location,Main Asset,Global Dimension 1,Global Dimension 2,FA Posting Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Fixed Asset - Book Value 01 - NamedType GroupTotalsTxt</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
